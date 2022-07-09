@@ -1,4 +1,4 @@
-![java-jungsuk-practice-logo](https://raw.githubusercontent.com/noranlenna/java-jungsuk-practice/master/public/image/java-jungsuk-practice.png)
+![java-jungsuk-practice-logo](https://github.com/noranlenna/java-jungsuk-practice/blob/main/public/image/java-jungsuk-practice.png?raw=true)
 
 [![Java Version](https://img.shields.io/badge/version-%3E11-E92E2F.svg?maxAge=2592000)](https://adoptium.net/temurin/releases/)
 
